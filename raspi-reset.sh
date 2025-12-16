@@ -4,7 +4,7 @@ set -euo pipefail
 ############################################
 # Raspberry Pi Professional Reset Utility
 # Author: SwissLabs
-# Version: 3.0
+# Version: 1.0.0
 ############################################
 
 ### CONSTANTS ###
